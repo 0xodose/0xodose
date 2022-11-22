@@ -9,6 +9,5 @@ Currently learning how to code and develop Dapps with buildspace.
 My goal is to continuously create tech-enabled IPs and expand user base of >1 million, and assume a formal position in DeFi
 
 I can be reached via Twitter @0xodose or via email 0xodose@gmail.com
-WAGMI. Long term value > short term gratification. Build & contribute. 
 
-[xore.io ](https://www.xore.io/)
+WAGMI. Long term value > short term gratification. Build & contribute. 
