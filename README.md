@@ -10,4 +10,4 @@ My goal is to continuously create tech-enabled IPs and expand user base of >1 mi
 
 I can be reached via Twitter @0xodose or via email 0xodose@gmail.com
 
-WAGMI. Long term value > short term gratification. Build & contribute. 
+Long term value > short term gratification. Build & contribute. 
